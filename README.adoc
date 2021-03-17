@@ -1,2 +1,3 @@
-# polka-index-backend
+# Polka Index backend
+
 Backend for Polka Index
