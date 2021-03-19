@@ -1,0 +1,6 @@
+MONGODB:
+  DB: 'polkaindex'
+  HOST: 'localhost'
+  PORT: 27017
+  USERNAME: ''
+  PASSWORD: ''

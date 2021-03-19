@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 # All dependences
 deps = {
-    'polka-index-backend': ['Flask'],
+    'polka-index-backend': ['Flask', 'pymongo', 'ruamel.yaml', 'flask-mongoengine'],
     'test': [
         'pytest',
     ],
