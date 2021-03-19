@@ -7,6 +7,12 @@
       "label": "Run Dev Server - Windows",
       "type": "shell",
       "command": "./run_dev_server.cmd",
+      "problemMatcher": []
+    },
+    {
+      "label": "Run Current - Windows",
+      "type": "shell",
+      "command": "venv/Scripts/python ${file}",
       "problemMatcher": [],
       "group": {
         "kind": "build",
